@@ -1,0 +1,60 @@
+C:\Users\shannabalfour\source\repos\Menu\bin\Debug\Menu.exe.config
+C:\Users\shannabalfour\source\repos\Menu\bin\Debug\Menu.exe
+C:\Users\shannabalfour\source\repos\Menu\bin\Debug\Menu.pdb
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.playMenu.resources
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.exe
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.pdb
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.GameMenu.resources
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.Instructions.resources
+C:\Users\shannabalfour\source\repos\Menu\obj\Debug\Menu.EndScreen.resources
+C:\Users\ami-janesmart\Documents\uh quack\Menu\bin\Debug\Menu.exe.config
+C:\Users\ami-janesmart\Documents\uh quack\Menu\bin\Debug\Menu.exe
+C:\Users\ami-janesmart\Documents\uh quack\Menu\bin\Debug\Menu.pdb
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.EndScreen.resources
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.frmStory.resources
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.Instructions.resources
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.playMenu.resources
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.exe
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.pdb
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.winscreen.resources
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Menu.frmMenu.resources
+C:\Users\ami-janesmart\Documents\uh quack\Menu\obj\Debug\Inversus.Inversus.resources
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\bin\Debug\Menu.exe.config
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\bin\Debug\Menu.exe
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\bin\Debug\Menu.pdb
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.frmStory.resources
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.winscreen.resources
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.EndScreen.resources
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Inversus.Inversus.resources
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.frmMenu.resources
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.Instructions.resources
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.playMenu.resources
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.exe
+C:\Users\shannabalfour\Documents\second year\Quackathon\Menu\obj\Debug\Menu.pdb
+C:\Users\Craig\source\repos\Menu\bin\Debug\Menu.exe.config
+C:\Users\Craig\source\repos\Menu\bin\Debug\Menu.exe
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.frmStory.resources
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.winscreen.resources
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.EndScreen.resources
+C:\Users\Craig\source\repos\Menu\obj\Debug\Inversus.Inversus.resources
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.frmMenu.resources
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.Instructions.resources
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.playMenu.resources
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.exe
+C:\Users\Craig\source\repos\Menu\obj\Debug\Menu.pdb
+C:\Users\Craig\source\repos\Menu\bin\Debug\Menu.pdb
